@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fuse-alpha/static/css/main.38abfaf5.chunk.css",
-    "main.js": "/fuse-alpha/static/js/main.67f9cbc8.chunk.js",
-    "main.js.map": "/fuse-alpha/static/js/main.67f9cbc8.chunk.js.map",
+    "main.js": "/fuse-alpha/static/js/main.568335d4.chunk.js",
+    "main.js.map": "/fuse-alpha/static/js/main.568335d4.chunk.js.map",
     "runtime-main.js": "/fuse-alpha/static/js/runtime-main.fffd95c4.js",
     "runtime-main.js.map": "/fuse-alpha/static/js/runtime-main.fffd95c4.js.map",
     "static/css/2.373bc5f8.chunk.css": "/fuse-alpha/static/css/2.373bc5f8.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.373bc5f8.chunk.css",
     "static/js/2.5561bc9d.chunk.js",
     "static/css/main.38abfaf5.chunk.css",
-    "static/js/main.67f9cbc8.chunk.js"
+    "static/js/main.568335d4.chunk.js"
   ]
 }
